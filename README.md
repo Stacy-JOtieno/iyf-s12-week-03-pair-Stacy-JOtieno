@@ -28,8 +28,8 @@ A shared profile page built by three partners as a Git and GitHub collaboration 
 
 ## Pull requests
 
-- [#1](https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/1)
-- [#2](https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/2)
+- [1: Add Moraa profile card to index.html](https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/1)
+- [#2: Add Carlos profile card to index.html](https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/2)
 - [#3: Add Stacy profile card to index.html](https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/3)
 
 ## Run it locally
