@@ -1,6 +1,6 @@
 # Week 3 Pair Project: Team Profile Page
 
-A shared profile page built by three partners as a Git and GitHub collaboration exercise for the IYF Weekend Academy. Each of us added our own profile card to `index.html` through feature branches and pull requests, and reviewed each other's work.
+This is a shared profile page built by three partners as Git and GitHub collaboration exercise for the IYF Wecan Academy. Each of us added our own profile card to `index.html` through feature branches and pull requests, and reviewed each other's work.
 
 ## Team
 
